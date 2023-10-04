@@ -14,7 +14,7 @@ Subjects covered:
 9. Communicating events
 10. Forms and VModel
 
-Each lesson contains a branch with starting coding and final result.
+Each lesson contains a branch with starting code and final result.
 ```
 git checkout L1-start
 ```
